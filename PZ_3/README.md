@@ -23,6 +23,7 @@
 ![image](https://github.com/user-attachments/assets/ced5fcce-343f-48e7-84a5-7a41ad99d01e)
 
 Логин - admin
+
 Пароль - JQkH3nT911vzyBNpRQv..TZVZsyU9.dM
 
 ![image](https://github.com/user-attachments/assets/3e7a5649-54ec-4603-b888-84eb88a71792)
@@ -36,6 +37,8 @@
 
 ## 3. Проверка целостности файлов
 ![image](https://github.com/user-attachments/assets/6f1ddaf5-95c1-4bd6-bd06-bb773b5fc603)
+![image](https://github.com/user-attachments/assets/d41865bf-ed60-4da7-b0b4-0fde1943b997)
+
 
 ## 4. Настройте выявление уязвимостей
 ![image](https://github.com/user-attachments/assets/30da595c-bbcd-4413-bd27-c4f5c7e1c7ec)
