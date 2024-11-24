@@ -25,6 +25,7 @@
 
 ![image](https://github.com/user-attachments/assets/25424f67-ca5a-442e-aeb8-d0c3d69c8f4d)
 
+# Сканер уязвимостей NIKTO
 Запустим сканер уязвимостей Nikto
 
 ![image](https://github.com/user-attachments/assets/c8e24dab-ab7a-4256-ba7a-72fecb833d04)
