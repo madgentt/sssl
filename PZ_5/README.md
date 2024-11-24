@@ -33,6 +33,11 @@
 
 ![image](https://github.com/user-attachments/assets/d3233340-5c9c-46db-a79b-e9c15e3e6e4f)
 
+![image](https://github.com/user-attachments/assets/7bc0e0bd-0593-4838-a37d-425e32b450ec)
+
+![image](https://github.com/user-attachments/assets/46928b82-9eba-419c-8e4c-9c578eb8e449)
+
+
 # YARA
 
 Скачаем и установим нужные пакеты
@@ -59,7 +64,10 @@
 ![image](https://github.com/user-attachments/assets/5c26a954-ade4-4d4d-9069-8dadbf57e015)
 
 Сработки ЯРА правил
-![image](https://github.com/user-attachments/assets/7a15f3c2-4717-4405-ad27-d90321b5b9c9)
+![image](https://github.com/user-attachments/assets/e59db708-542f-4cad-803a-9ab2a15078d0)
 
 ![image](https://github.com/user-attachments/assets/6fa86f90-ff77-4c56-aafc-7efe46bb4b30)
+
+![image](https://github.com/user-attachments/assets/4cd589aa-4b14-442e-8729-8930fe2724bf)
+
 
